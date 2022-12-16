@@ -2,7 +2,7 @@
 <h3 align="center"> I am passionate about programming!</h3>
 <br></br>
 
-🌱 I am currently following the "Cloud Resume Challenge". My work for the challenge will be public in this GitHub.
+🌱 I am currently following the "Cloud Resume Challenge". As I progress through the guidebook, relevant projects will be publicly available here.
 <br></br>
 
 📫 How to reach me: a.hoq@outlook.com
