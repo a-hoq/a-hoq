@@ -2,9 +2,11 @@
 <h3 align="center"> I am passionate about programming!</h3>
 <br></br>
 
-🌱 I am currently following the "Cloud Resume Challenge". As I progress through the guidebook, relevant projects will be publicly available here.
-<br></br>
+This is a new account I have set up to record my journey as an IT professional. Projects will slowly populate the account.
 
+I am recently started following the "Cloud Resume Challenge". Expect activity soon!
+<br></br>
+<br></br>
 📫 How to reach me: a.hoq@outlook.com
 
 <!---
