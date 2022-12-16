@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi, I’m Azmaeen Hoque</h1>
-<h3 align="center"> I am passionate about programming!</h3>
+<h3 align="center"> I am passionate about Information Technology!</h3>
 <br></br>
 
 This is a new account I have set up to record my journey as an IT professional. Projects will slowly populate the account.
