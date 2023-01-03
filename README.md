@@ -4,7 +4,7 @@
 
 This is a new account I have set up to record my journey as an IT professional. Projects will slowly populate the account.
 
-I am recently started following the "Cloud Resume Challenge". Expect activity soon!
+I am currently learning Web Development!
 <br></br>
 <br></br>
 📫 How to reach me: a.hoq@outlook.com
